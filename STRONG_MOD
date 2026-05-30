@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Strong-MOD</title>
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#121212;
+    color:white;
+}
+header{
+    background:#1f1f1f;
+    padding:20px;
+    text-align:center;
+}
+.logo{
+    font-size:30px;
+    font-weight:bold;
+}
+.container{
+    padding:20px;
+}
+.card{
+    background:#222;
+    padding:15px;
+    border-radius:12px;
+    margin-bottom:15px;
+}
+.btn{
+    display:inline-block;
+    background:#00c853;
+    color:white;
+    padding:10px 15px;
+    border-radius:8px;
+    text-decoration:none;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <div class="logo">STRONG-MOD</div>
+    <p>Games & Apps Download Center</p>
+    <p>مركز تحميل الألعاب والتطبيقات</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>Welcome / مرحباً</h2>
+<p>Download games and apps easily.</p>
+<p>قم بتحميل الألعاب والتطبيقات بسهولة.</p>
+</div>
+
+<div class="card">
+<h2>Coming Soon / قريباً</h2>
+<p>Games Section</p>
+<p>قسم الألعاب</p>
+<a class="btn" href="#">Explore</a>
+</div>
+
+</div>
+
+</body>
+</html>
